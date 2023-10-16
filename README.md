@@ -8,3 +8,4 @@ Usage: invoke the script with the URL you wish to convert, e.g.
 ```
 bash garmin.sh https://connect.garmin.com/modern/activity/xxyyzz
 ```
+Second version: C# translation, written as exercise; tested compilation and execution only on Win, needs refactoring.
